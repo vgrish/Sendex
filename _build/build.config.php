@@ -1,6 +1,6 @@
 <?php
 
-/* define package */
+/* define package1 */
 define('PKG_NAME', 'Sendex');
 define('PKG_NAME_LOWER', strtolower(PKG_NAME));
 
